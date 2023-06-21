@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/telegram_clone/static/css/main.aab4d7f9.css",
+    "main.js": "/telegram_clone/static/js/main.2a301aec.js",
+    "static/media/pattern-29.svg": "/telegram_clone/static/media/pattern-29.0271b53cc39f51564061.svg",
+    "index.html": "/telegram_clone/index.html",
+    "main.aab4d7f9.css.map": "/telegram_clone/static/css/main.aab4d7f9.css.map",
+    "main.2a301aec.js.map": "/telegram_clone/static/js/main.2a301aec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aab4d7f9.css",
+    "static/js/main.2a301aec.js"
+  ]
+}
